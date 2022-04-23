@@ -1,2 +1,2 @@
-# graceartt.github.io
+# graceeartt.github.io
 React JS İle Fonksiyon Kullanımı
